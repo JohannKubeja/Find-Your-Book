@@ -73,4 +73,4 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 # Screenshot 
 
-#Deploy Link:
+# Deploy Link:
